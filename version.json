@@ -1,0 +1,12 @@
+{
+  "latestVersion": "3.1.0",
+  "minimumVersion": null,
+  "forceUpdate": false,
+  "title": "تحديث Maren",
+  "description": "نظام التحديث التلقائي + إصلاحات",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.1.0/app-release.apk",
+  "releaseNotes": "1. نظام التحديث التلقائي\n2. فحص عند التشغيل + كل 6 ساعات\n3. التحقق من SHA-256\n4. دعم force update",
+  "publishedAt": "2026-08-05T22:00:00Z",
+  "sha256": null,
+  "platform": "android"
+}

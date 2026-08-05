@@ -1,0 +1,10 @@
+{
+  "latestVersion": "3.1.0",
+  "minimumVersion": null,
+  "forceUpdate": false,
+  "title": "تحديث Maren Desktop",
+  "description": "إصلاحات وتحسينات لتطبيق الكمبيوتر",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases",
+  "releaseNotes": "1. نظام التحديث التلقائي\n2. تحسين الأداء",
+  "publishedAt": "2026-08-05T22:00:00Z"
+}
