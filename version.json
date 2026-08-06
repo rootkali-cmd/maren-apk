@@ -1,12 +1,8 @@
 {
-  "latestVersion": "3.2.0",
+  "latestVersion": "3.2.1",
   "minimumVersion": null,
   "forceUpdate": false,
-  "title": "تحديث Maren 3.2.0",
-  "description": "ميزات جديدة: إنشاء قسط جديد، إضافة عميل/منتج، حفظ تسجيل الدخول، مزامنة محسّنة",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.0/app-release.apk",
-  "releaseNotes": "1. إنشاء قسط جديد بنفس حقول سطح المكتب\n2. إضافة عميل جديد\n3. إضافة منتج جديد\n4. إصلاح حفظ تسجيل الدخول نهائياً\n5. مزامنة محسّنة (لا تضيع البيانات)\n6. واجهة عربية RTL كاملة\n7. إشعارات التنبيهات",
-  "publishedAt": "2026-08-06T10:00:00Z",
-  "sha256": null,
-  "platform": "android"
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.1/app-release.apk",
+  "releaseNotes": "1. إصلاح كراش شاشات الأقساط والتنبيهات\n2. إصلاح مؤشر الاتصال Online/Offline\n3. تسريع المزامنة مع تحسينات الاستقرار",
+  "publishedAt": "2026-08-07T00:30:00Z"
 }
