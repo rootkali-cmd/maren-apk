@@ -1,8 +1,8 @@
 {
   "latestVersion": "3.2.1",
-  "minimumVersion": null,
-  "forceUpdate": false,
+  "minimumVersion": "3.2.1",
+  "forceUpdate": true,
   "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.1/app-release.apk",
-  "releaseNotes": "1. إصلاح كراش شاشات الأقساط والتنبيهات\n2. إصلاح مؤشر الاتصال Online/Offline\n3. تسريع المزامنة مع تحسينات الاستقرار",
+  "releaseNotes": "1. إصلاح كراش شاشات الأقساط والتنبيهات\n2. إصلاح مؤشر الاتصال Online/Offline\n3. تسريع المزامنة مع تحسينات الاستقرار\n4. إصلاح خطأ تثبيت التحديث (expo-file-system)",
   "publishedAt": "2026-08-07T00:30:00Z"
 }
