@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.1.1",
+  "latestVersion": "3.2.3",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "نظام التحديث التلقائي + إصلاحات",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.1.1/app-release.apk",
-  "releaseNotes": "1. نظام التحديث التلقائي\n2. فحص عند التشغيل + كل 6 ساعات\n3. التحقق من SHA-256\n4. دعم force update",
-  "publishedAt": "2026-08-05T22:00:00Z",
-  "sha256": null,
+  "description": "نظام التحديث التلقائي + إصلاح تثبيت APK + إصلاح التنبيهات + إغلاق المودالات بالسحب",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.3/app-release.apk",
+  "releaseNotes": "1. إصلاح تثبيت التحديث عبر IntentLauncher + FileProvider\n2. إصلاح التنبيهات (استبعاد 'منتهي' + حساب اليوم من آخر دفعة)\n3. إغلاق المودالات بالسحب من الأسفل للأسفل\n4. إزالة زر +جديد من NewInstallmentModal\n5. مزامنة owner_id بين الأندرويد والويب",
+  "publishedAt": "2026-08-07T16:30:00Z",
+  "sha256": "6d8eca3533c2aa1f9a8069b0377d8402e95b4e02e3e3b4dbd750e1b15c915f16",
   "platform": "android"
 }
