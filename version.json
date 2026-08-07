@@ -1,8 +1,8 @@
 {
-  "latestVersion": "3.2.2",
-  "minimumVersion": "3.2.2",
+  "latestVersion": "3.2.3",
+  "minimumVersion": "3.2.3",
   "forceUpdate": true,
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.2/app-release.apk",
-  "releaseNotes": "1. إصلاح مشكلة تثبيت التحديث (expo-file-system)\n2. إصلاح كراش شاشات الأقساط والتنبيهات\n3. إصلاح مؤشر الاتصال Online/Offline\n4. تسريع المزامنة مع تحسينات الاستقرار",
-  "publishedAt": "2026-08-07T00:45:00Z"
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.3/app-release.apk",
+  "releaseNotes": "1. إصلاح المزامنة: بيانات الموبايل تصل الآن للابتوب تلقائياً\n2. التنبيهات حسب يوم الدفع (مثلاً يوم 7 من كل شهر) وليس بداية الشهر\n3. إزالة التنبيهات للأقساط المنتهية\n4. المودالات تُغلق بالسحب للأسفل\n5. إزالة زر +جديد من إنشاء القسط (العميل يُضاف من شاشة العملاء)",
+  "publishedAt": "2026-08-07T08:20:00Z"
 }
