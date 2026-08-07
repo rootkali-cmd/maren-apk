@@ -1,5 +1,6 @@
 {
   "latestVersion": "3.2.3",
+<<<<<<< HEAD
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
@@ -10,3 +11,11 @@
   "sha256": "6d8eca3533c2aa1f9a8069b0377d8402e95b4e02e3e3b4dbd750e1b15c915f16",
   "platform": "android"
 }
+=======
+  "minimumVersion": "3.2.3",
+  "forceUpdate": true,
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.3/app-release.apk",
+  "releaseNotes": "1. إصلاح المزامنة: بيانات الموبايل تصل الآن للابتوب تلقائياً\n2. التنبيهات حسب يوم الدفع (مثلاً يوم 7 من كل شهر) وليس بداية الشهر\n3. إزالة التنبيهات للأقساط المنتهية\n4. المودالات تُغلق بالسحب للأسفل\n5. إزالة زر +جديد من إنشاء القسط (العميل يُضاف من شاشة العملاء)",
+  "publishedAt": "2026-08-07T08:20:00Z"
+}
+>>>>>>> 4864453a05527d461e2a21c551cc1e7d8f9319a7
