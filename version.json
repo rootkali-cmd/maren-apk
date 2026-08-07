@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.3",
+  "latestVersion": "3.2.4",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "نظام التحديث التلقائي + إصلاح تثبيت APK + إصلاح التنبيهات + إغلاق المودالات بالسحب",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.3/app-release.apk",
-  "releaseNotes": "1. إصلاح تثبيت التحديث عبر IntentLauncher + FileProvider\n2. إصلاح التنبيهات (استبعاد 'منتهي' + حساب اليوم من آخر دفعة)\n3. إغلاق المودالات بالسحب من الأسفل للأسفل\n4. إزالة زر +جديد من NewInstallmentModal\n5. مزامنة owner_id بين الأندرويد والويب",
-  "publishedAt": "2026-08-07T16:30:00Z",
-  "sha256": "6d8eca3533c2aa1f9a8069b0377d8402e95b4e02e3e3b4dbd750e1b15c915f16",
+  "description": "إصلاح تثبيت الجلسة على الكمبيوتر + تحديث الأندرويد",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.4/app-release.apk",
+  "releaseNotes": "1. إصلاح تثبيت تسجيل الدخول على الكمبيوتر (حفظ في ملف بدلاً من localStorage)\n2. تحديث إصدار الأندرويد إلى 3.2.4\n3. جميع الإصلاحات السابقة محفوظة",
+  "publishedAt": "2026-08-07T19:40:00Z",
+  "sha256": "6ff9d64dae8665b318ec09558e2930f69ac4988b5a9d8e99b3c39b45bc4a7014",
   "platform": "android"
 }
