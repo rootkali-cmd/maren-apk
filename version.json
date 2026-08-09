@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.4",
+  "latestVersion": "3.2.5",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح تثبيت الجلسة على الكمبيوتر + تحديث الأندرويد",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.4/app-release.apk",
-  "releaseNotes": "1. إصلاح تثبيت تسجيل الدخول على الكمبيوتر (حفظ في ملف بدلاً من localStorage)\n2. تحديث إصدار الأندرويد إلى 3.2.4\n3. جميع الإصلاحات السابقة محفوظة",
-  "publishedAt": "2026-08-07T19:40:00Z",
-  "sha256": "6ff9d64dae8665b318ec09558e2930f69ac4988b5a9d8e99b3c39b45bc4a7014",
+  "description": "إصلاح عزل البيانات بين الحسابات + شاشة تفعيل الاشتراك",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.5/app-release.apk",
+  "releaseNotes": "1. إصلاح عزل البيانات بين الحسابات المختلفة على نفس الجهاز\n2. إضافة شاشة تفعيل الاشتراك للمستخدمين الجدد\n3. تصفية جميع الاستعلامات المحلية بـ owner_id\n4. مزامنة البيانات مع تصفية owner_id من السحابة",
+  "publishedAt": "2026-08-09T02:30:00Z",
+  "sha256": "8f93e9a835f8ee3967f6109b6d388bb122260f8a5063abb2ffcc1f8072e65692",
   "platform": "android"
 }
