@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.2.0",
+  "latestVersion": "3.2.6",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "نسخة تجريبي جديد QR لنظام أندرويد والإصلاحات الجديدة",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.0/Maren.Setup.3.2.0.exe",
-  "releaseNotes": "1. تحديث رابط تحميل تطبيق أندرويد QR\n2. نظام التحديث التلقائي\n3. تحسين الأداء",
-  "publishedAt": "2026-08-06T19:20:00Z"
+  "description": "منطق الأقساط الجديد + التواريخ 12/8/2026 + رابط تحميل أندرويد v3.2.6",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.6/Maren.Setup.3.2.6.exe",
+  "releaseNotes": "1. منطق الأقساط الجديد: الاستحقاق بعد شهر من يوم السداد الفعلي\n2. التواريخ بصيغة يوم/شهر/سنة\n3. تحديث رابط تحميل تطبيق الأندرويد (v3.2.6)",
+  "publishedAt": "2026-08-12T18:00:00Z"
 }

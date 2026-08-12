@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.5",
+  "latestVersion": "3.2.6",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح عزل البيانات بين الحسابات + شاشة تفعيل الاشتراك",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.5/app-release.apk",
-  "releaseNotes": "1. إصلاح عزل البيانات بين الحسابات المختلفة على نفس الجهاز\n2. إضافة شاشة تفعيل الاشتراك للمستخدمين الجدد\n3. تصفية جميع الاستعلامات المحلية بـ owner_id\n4. مزامنة البيانات مع تصفية owner_id من السحابة",
-  "publishedAt": "2026-08-09T02:30:00Z",
-  "sha256": "8f93e9a835f8ee3967f6109b6d388bb122260f8a5063abb2ffcc1f8072e65692",
+  "description": "الوضع الداكن فضي + منطق الأقساط الجديد + تصدير PDF/Excel",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.6/app-release.apk",
+  "releaseNotes": "1. الوضع الداكن: ألوان فضي معدني بدل الأسود مع بقاء النصوص بيضاء\n2. منطق الأقساط الجديد: الاستحقاق بعد شهر من يوم السداد الفعلي\n3. التواريخ بصيغة يوم/شهر/سنة (12/8/2026)\n4. التصدير: PDF و Excel فقط بدل CSV\n5. إصلاح تحذيرات expo-file-system في الاستيراد/التصدير",
+  "publishedAt": "2026-08-12T18:00:00Z",
+  "sha256": "060ee5e003863e05b44c716e2cf25f4f12aaaccd798735b3420102ecb68fe52d",
   "platform": "android"
 }
