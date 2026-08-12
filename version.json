@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.6",
+  "latestVersion": "3.2.7",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "الوضع الداكن فضي + منطق الأقساط الجديد + تصدير PDF/Excel",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.6/app-release.apk",
-  "releaseNotes": "1. الوضع الداكن: ألوان فضي معدني بدل الأسود مع بقاء النصوص بيضاء\n2. منطق الأقساط الجديد: الاستحقاق بعد شهر من يوم السداد الفعلي\n3. التواريخ بصيغة يوم/شهر/سنة (12/8/2026)\n4. التصدير: PDF و Excel فقط بدل CSV\n5. إصلاح تحذيرات expo-file-system في الاستيراد/التصدير",
-  "publishedAt": "2026-08-12T18:00:00Z",
-  "sha256": "060ee5e003863e05b44c716e2cf25f4f12aaaccd798735b3420102ecb68fe52d",
+  "description": "إصلاح حالة القسط المعطلة + شفاء تلقائي للبيانات القديمة",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.7/app-release.apk",
+  "releaseNotes": "1. إصلاح ظهور 'user-' بدل 'نشط/منتهي' في حالة الأقساط\n2. شفاء تلقائي للبيانات القديمة عند التشغيل\n3. حماية عرض الحالات في كل الشاشات",
+  "publishedAt": "2026-08-12T22:00:00Z",
+  "sha256": "c2abe00cea89ca65a8811a0ec3754e9b064ab19122d18655d795e7e4db173918",
   "platform": "android"
 }
