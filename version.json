@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.7",
+  "latestVersion": "3.2.8",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح حالة القسط المعطلة + شفاء تلقائي للبيانات القديمة",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.7/app-release.apk",
-  "releaseNotes": "1. إصلاح ظهور 'user-' بدل 'نشط/منتهي' في حالة الأقساط\n2. شفاء تلقائي للبيانات القديمة عند التشغيل\n3. حماية عرض الحالات في كل الشاشات",
-  "publishedAt": "2026-08-12T22:00:00Z",
-  "sha256": "c2abe00cea89ca65a8811a0ec3754e9b064ab19122d18655d795e7e4db173918",
+  "description": "إصلاح حذف العميل + إصلاح توقف تحميل التحديث + رسائل تنبيه بثيم التطبيق",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.8/app-release.apk",
+  "releaseNotes": "1. إصلاح خطأ 'لم يتم العثور على بيانات المدير' عند حذف عميل\n2. إصلاح توقف تحميل التحديث (stream was reset) مع إعادة محاولة تلقائية 4 مرات\n3. إصلاح ظهور 'user-' بدل 'نشط/منتهي' في حالة الأقساط + شفاء تلقائي للبيانات القديمة\n4. رسائل التنبيه أصبحت بثيم التطبيق بدلاً من النوافذ البيضاء",
+  "publishedAt": "2026-08-13T02:00:00Z",
+  "sha256": "cf23bd767b676ea4bf2cd7a59da5865c1f177ff75860b1dd6eb37468f13554a4",
   "platform": "android"
 }
