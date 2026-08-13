@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.2.11",
+  "latestVersion": "3.2.12",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "قسم تحميل الأندرويد أصبح ديناميكياً: يجلب أحدث إصدار تلقائياً من GitHub",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.11/Maren.Setup.3.2.11.exe",
-  "releaseNotes": "1. قسم تحميل الأندرويد ديناميكي: يعرض أحدث إصدار أندرويد + رابط مباشر + QR تلقائياً من GitHub بدون تعديل يدوي\n2. زر تحديث داخل القسم لإعادة الجلب",
+  "description": "إصلاح الأقساط والاحصائيات في سطح المكتب (نفس إصلاح الأندرويد 3.2.9)",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.12/Maren.Setup.3.2.12.exe",
+  "releaseNotes": "1. إزالة فلاتر المالك (owner_id) من كل القراءات والاحصائيات والتعديلات: الأقساط والعملاء والأصناف والإحصائيات تعرض الآن كل البيانات المزامنة مهما كان المالك\n2. نفس إصلاحات أندرويد 3.2.9: البيانات لا تختفي بعد الآن، وعدد الأقساط المبيعة والمبيعات صحيح",
   "publishedAt": "2026-08-13T08:00:00Z"
 }
