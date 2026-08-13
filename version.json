@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.10",
+  "latestVersion": "3.2.11",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح جذري لخطأ SHA-256 verification failed أثناء التحديث",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.10/app-release.apk",
-  "releaseNotes": "1. إصلاح جذري لخطأ 'SHA-256 verification failed': التحقق من الملف أصبح بطريقة native مباشرة على الملف بدلاً من تحميله في الذاكرة (كان يفشل زائفاً على الملفات الكبيرة)\n2. رسالة خطأ أوضح مع نصائح عند توقف الاتصال أثناء التحميل",
-  "publishedAt": "2026-08-13T06:00:00Z",
-  "sha256": "e28b46fd57c6eb653d1304a52d0a53e6978ef3c81e9e6a90d8d3840259ca69d2",
+  "description": "إعادة تصميم وترتيب قائمة الأقساط",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.11/app-release.apk",
+  "releaseNotes": "1. ترتيب الأقساط: النشط أولاً (الأقرب استحقاقاً في المقدمة) ثم المكتمل ثم المنتهي\n2. تصميم جديد للبطاقة: اسم العميل والصنف + شريط تقدم السداد + خلاصة القسط الشهري/المدفوع/المتبقي في مربعات ملونة\n3. إطار مميز للأقساط النشطة",
+  "publishedAt": "2026-08-13T09:00:00Z",
+  "sha256": "1133daccc1f2479771ca085f8a22140ce061c171e96d5e6637e06c162027fe7d",
   "platform": "android"
 }
