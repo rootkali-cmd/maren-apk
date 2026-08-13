@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.2.10",
+  "latestVersion": "3.2.11",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "نفس إصلاحات الأندرويد + رابط تحميل أندرويد v3.2.10",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.10/Maren.Setup.3.2.10.exe",
-  "releaseNotes": "1. شفاء تلقائي لحالة القسط المعطلة (user_) إلى نشط عند التشغيل وبعد كل مزامنة\n2. عرض الأقساط حتى لو العميل/الصنف محذوف (LEFT JOIN) بدل إخفائها\n3. نشر الحذف للسحابة: العميل المحذوف لا يعود بعد إعادة التشغيل\n4. تحديث قسم تحميل الأندرويد: الرابط ورمز QR الآن v3.2.10",
+  "description": "قسم تحميل الأندرويد أصبح ديناميكياً: يجلب أحدث إصدار تلقائياً من GitHub",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.11/Maren.Setup.3.2.11.exe",
+  "releaseNotes": "1. قسم تحميل الأندرويد ديناميكي: يعرض أحدث إصدار أندرويد + رابط مباشر + QR تلقائياً من GitHub بدون تعديل يدوي\n2. زر تحديث داخل القسم لإعادة الجلب",
   "publishedAt": "2026-08-13T08:00:00Z"
 }
