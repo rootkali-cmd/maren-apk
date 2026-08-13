@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.2.8",
+  "latestVersion": "3.2.10",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "تحديث رابط تحميل الأندرويد والـ QR إلى v3.2.8",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.8/Maren.Setup.3.2.8.exe",
-  "releaseNotes": "1. تحديث قسم تحميل الأندرويد: الرابط ورمز QR الآن يشيران إلى الأندرويد v3.2.8\n2. إصلاحات إصدار الأندرويد 3.2.8 (حذف العميل، تحميل التحديث، الرسائل المنسقة)",
-  "publishedAt": "2026-08-13T03:00:00Z"
+  "description": "نفس إصلاحات الأندرويد + رابط تحميل أندرويد v3.2.10",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.10/Maren.Setup.3.2.10.exe",
+  "releaseNotes": "1. شفاء تلقائي لحالة القسط المعطلة (user_) إلى نشط عند التشغيل وبعد كل مزامنة\n2. عرض الأقساط حتى لو العميل/الصنف محذوف (LEFT JOIN) بدل إخفائها\n3. نشر الحذف للسحابة: العميل المحذوف لا يعود بعد إعادة التشغيل\n4. تحديث قسم تحميل الأندرويد: الرابط ورمز QR الآن v3.2.10",
+  "publishedAt": "2026-08-13T08:00:00Z"
 }
