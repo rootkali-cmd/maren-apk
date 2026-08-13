@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.2.6",
+  "latestVersion": "3.2.8",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "منطق الأقساط الجديد + التواريخ 12/8/2026 + رابط تحميل أندرويد v3.2.6",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.6/Maren.Setup.3.2.6.exe",
-  "releaseNotes": "1. منطق الأقساط الجديد: الاستحقاق بعد شهر من يوم السداد الفعلي\n2. التواريخ بصيغة يوم/شهر/سنة\n3. تحديث رابط تحميل تطبيق الأندرويد (v3.2.6)",
-  "publishedAt": "2026-08-12T18:00:00Z"
+  "description": "تحديث رابط تحميل الأندرويد والـ QR إلى v3.2.8",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.8/Maren.Setup.3.2.8.exe",
+  "releaseNotes": "1. تحديث قسم تحميل الأندرويد: الرابط ورمز QR الآن يشيران إلى الأندرويد v3.2.8\n2. إصلاحات إصدار الأندرويد 3.2.8 (حذف العميل، تحميل التحديث، الرسائل المنسقة)",
+  "publishedAt": "2026-08-13T03:00:00Z"
 }
