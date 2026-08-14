@@ -1,11 +1,11 @@
 {
-  "latestVersion": "3.2.14",
+  "latestVersion": "3.2.15",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "تحديث أمان شامل + تجزئة مملحة + CDN fallback",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.14/Maren.Setup.3.2.14.exe",
-  "releaseNotes": "1. حماية روابط التحديث: فلترة صارمة للروابط المسموح بها فقط\n2. CDN fallback للتحديث على الاتصال الضعيف\n3. تجزئة كلمات المرور المُملحة: حماية أقوى\n4. تحديث شفاف: كلمات المرور القديمة تُحدّث تلقائياً\n5. فلتر المالك على حذف/تعديل العمال",
-  "publishedAt": "2026-08-14T15:30:00Z",
-  "sha256": "9FED2D1591ACFE89BFEE5E4C4BA697EA80AC1986AEE94D4FEB4B29C67A6E3DF9"
+  "description": "تحسين اتصال التحديث للنت الضعيف",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.15/Maren.Setup.3.2.15.exe",
+  "releaseNotes": "1. مهلة أطول للاتصال (15 ثانية) للنت الضعيف\n2. إصلاح مشكلة عدم وصول آخر إصدار من السيرفر",
+  "publishedAt": "2026-08-14T16:00:00Z",
+  "sha256": "3B3F3F8BD0EB89762BC433A65FCD7765C501635C2D094457A925048E774112A6"
 }
