@@ -1,10 +1,11 @@
 {
-  "latestVersion": "3.2.12",
+  "latestVersion": "3.2.13",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "إصلاح الأقساط والاحصائيات في سطح المكتب (نفس إصلاح الأندرويد 3.2.9)",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.12/Maren.Setup.3.2.12.exe",
-  "releaseNotes": "1. إزالة فلاتر المالك (owner_id) من كل القراءات والاحصائيات والتعديلات: الأقساط والعملاء والأصناف والإحصائيات تعرض الآن كل البيانات المزامنة مهما كان المالك\n2. نفس إصلاحات أندرويد 3.2.9: البيانات لا تختفي بعد الآن، وعدد الأقساط المبيعة والمبيعات صحيح",
-  "publishedAt": "2026-08-13T08:00:00Z"
+  "description": "الحذف نهائي + عزل كامل بين الحسابات",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.13/Maren.Setup.3.2.13.exe",
+  "releaseNotes": "1. الحذف أصبح نهائياً: أي عميل/منتج/قسط/دفعة تُحذف لا تعود أبداً حتى بعد إعادة الدخول أو المزامنة\n2. عزل كامل بين الحسابات: كل حساب يرى بياناته فقط في كل الشاشات والإحصائيات والبحث\n3. مزامنة الحذف بين الأجهزة عبر علامات الحذف (تومبستونز)",
+  "publishedAt": "2026-08-14T01:00:00Z",
+  "sha256": "F397A8ACBD5E3D683F44EBA84C920BCAB32CF01BCBF9ADFD91B7C1CE81ED9ED8"
 }
