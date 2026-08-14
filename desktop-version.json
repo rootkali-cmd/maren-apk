@@ -1,11 +1,11 @@
 {
-  "latestVersion": "3.2.15",
+  "latestVersion": "3.2.17",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "تحسين اتصال التحديث للنت الضعيف",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.15/Maren.Setup.3.2.15.exe",
-  "releaseNotes": "1. مهلة أطول للاتصال (15 ثانية) للنت الضعيف\n2. إصلاح مشكلة عدم وصول آخر إصدار من السيرفر",
-  "publishedAt": "2026-08-14T16:00:00Z",
-  "sha256": "3B3F3F8BD0EB89762BC433A65FCD7765C501635C2D094457A925048E774112A6"
+  "description": "إصلاح تحميل رابط الأندرويد + إزالة التحذير + أمان إضافي",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.17/Maren.Setup.3.2.17.exe",
+  "releaseNotes": "1. إصلاح: رمز QR والرابط بيظهر دايماً حتى لو النت ضعيف\n2. إضافة cache للإصدار المحلي\n3. تسريع جلب التحديث (timeout 8 ثواني)\n4. حماية URLs في shell.openExternal\n5. تجزئة مملحة لكلمات مرور العمال",
+  "publishedAt": "2026-08-14T17:00:00Z",
+  "sha256": "BFD7D09AC01A5A7360D31A6FFE261BA6908D9BA1430259F65BE986996F18EF6C"
 }
