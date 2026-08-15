@@ -3,10 +3,10 @@
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح مشكلة تحديث الأندرويد",
+  "description": "إصلاح تسجيل القسط + رقم الإصدار + تحديث",
   "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.15/app-release.apk",
-  "releaseNotes": "1. إصلاح خطأ SHA-256 verification failed أثناء التحديث\n2. رسالة خطأ أوضح",
-  "publishedAt": "2026-08-15T05:00:00Z",
-  "sha256": "18A1A3D42B206694A11375D2BD9C43030EF604331BD29D6871BE5230EDFB8483",
+  "releaseNotes": "1. إصلاح تسجيل القسط الجديد (status و owner_id كانوا مقلوبين)\n2. إصلاح رقم الإصدار\n3. إزالة فشل SHA-256 verification أثناء التحديث",
+  "publishedAt": "2026-08-15T06:00:00Z",
+  "sha256": "3A76D28981760A179D3660E74B73B87020E3361ED4B75EA2BBA9CC014BD574A7",
   "platform": "android"
 }
