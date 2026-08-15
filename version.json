@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.14",
+  "latestVersion": "3.2.15",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح تسجيل القسط الجديد",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.14/app-release.apk",
-  "releaseNotes": "1. إصلاح خطأ جسيم: ترتيب الحقول كان مقلوب عند تسجيل قسط جديد — status و owner_id كانوا متبادلين، فمش بيظهر القسط في القائمة",
-  "publishedAt": "2026-08-15T04:30:00Z",
-  "sha256": "E7EBD9A9E0F9F5FC011E0896CE4022B90E5D3E842F05FA93FBC73954B037688B",
+  "description": "إصلاح مشكلة تحديث الأندرويد",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.15/app-release.apk",
+  "releaseNotes": "1. إصلاح خطأ SHA-256 verification failed أثناء التحديث\n2. رسالة خطأ أوضح",
+  "publishedAt": "2026-08-15T05:00:00Z",
+  "sha256": "18A1A3D42B206694A11375D2BD9C43030EF604331BD29D6871BE5230EDFB8483",
   "platform": "android"
 }
