@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.13",
+  "latestVersion": "3.2.14",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "تحديث أمان شامل + تجزئة مملحة + تحسينات التحديث",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.13/app-release.apk",
-  "releaseNotes": "1. تجزئة كلمات المرور المُملحة: حماية أقوى ضد اختراق قواعد البيانات\n2. تحديث شفاف: كلمات المرور القديمة تُحدّث تلقائياً عند تسجيل الدخول\n3. تحديثات أقل إزعاجاً: تأجيل 24 ساعة عند الضغط على لاحقاً\n4. CDN fallback للتحديث على الاتصال الضعيف\n5. تثبيت أكثر مرونة على أندرويد\n6. فلتر المالك على حذف/تعديل العمال (ثغرة أمنية)",
-  "publishedAt": "2026-08-14T15:30:00Z",
-  "sha256": "FFB3E9B47DD87BC8521C1EF0C29442B3971D367182737548C0AACFF564964647",
+  "description": "إصلاح تسجيل القسط الجديد",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.14/app-release.apk",
+  "releaseNotes": "1. إصلاح خطأ جسيم: ترتيب الحقول كان مقلوب عند تسجيل قسط جديد — status و owner_id كانوا متبادلين، فمش بيظهر القسط في القائمة",
+  "publishedAt": "2026-08-15T04:30:00Z",
+  "sha256": "E7EBD9A9E0F9F5FC011E0896CE4022B90E5D3E842F05FA93FBC73954B037688B",
   "platform": "android"
 }
