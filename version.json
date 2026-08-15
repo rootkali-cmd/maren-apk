@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.15",
+  "latestVersion": "3.2.16",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح تسجيل القسط + رقم الإصدار + تحديث",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.15/app-release.apk",
-  "releaseNotes": "1. إصلاح تسجيل القسط الجديد (status و owner_id كانوا مقلوبين)\n2. إصلاح رقم الإصدار\n3. إزالة فشل SHA-256 verification أثناء التحديث",
-  "publishedAt": "2026-08-15T06:00:00Z",
-  "sha256": "3A76D28981760A179D3660E74B73B87020E3361ED4B75EA2BBA9CC014BD574A7",
+  "description": "إصلاح التنبيهات المبكرة + ترحيل owner_id القديم",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.16/Maren-3.2.16.apk",
+  "releaseNotes": "1. إصلاح التنبيهات: القسط اللي بيبدأ الشهر الحالي مش هيبان في التنبيهات لحد ما الشهر الجاي\n2. إصلاح المزامنة: الأقساط القديمة owner_id هتتنصلح تلقائي\n3. إصلاح owner_id في الديسكتوب للسجلات القديمة",
+  "publishedAt": "2026-08-15T22:30:00Z",
+  "sha256": "8F19A5250DB8B46C9DB87E7EDA93A5DA265FF6AB8522673DB80D42FA3F29C056",
   "platform": "android"
 }
