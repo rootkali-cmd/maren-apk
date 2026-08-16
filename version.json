@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.19",
+  "latestVersion": "3.2.20",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح deprecated API + إصلاح حرج في المزامنة",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.19/Maren-3.2.19.apk",
-  "releaseNotes": "1. إصلاح deprecated getContentUriAsync\n2. إصلاح حرج: القسط مش هيمسح تاني\n3. المزامنة بتبعت قبل التنظيف",
-  "publishedAt": "2026-08-16T13:15:00Z",
-  "sha256": "BA89B3C1A2A364825E58F602E5E6967F6CFFA107904457F8CBC94D0E6268A28B",
+  "description": "إصلاح حرج: المزامنة بين الأجهزة - setOwnerId يُستدعى عند بدء التشغيل",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.20/Maren-3.2.20.apk",
+  "releaseNotes": "1. إصلاح حرج: setOwnerId لا يُستدعى عند بدء التشغيل → المزامنة كانت فارغة\n2. تنظيف السحابة بعد 24 ساعة بدل ساعة واحدة\n3. إصلاح deprecated getContentUriAsync",
+  "publishedAt": "2026-08-16T18:15:00Z",
+  "sha256": "0D2D7F57A06A0F72670C981BCE73033EB0028C16177A7EC1AD99C8604ADA35E5",
   "platform": "android"
 }
