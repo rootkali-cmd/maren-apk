@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.17",
+  "latestVersion": "3.2.18",
   "minimumVersion": null,
   "forceUpdate": false,
-  "title": "تحديث Maren",
-  "description": "إصلاح التنبيهات + ترحيل owner_id + cache-busting للتحديثات",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.17/Maren-3.2.17.apk",
-  "releaseNotes": "1. إصلاح التنبيهات: القسط لا يظهر كمتاخر قبل موعد أول دفعة\n2. إصلاح المزامنة: owner_id القديم يتنصلح تلقائي\n3. إصلاح وصول التحديث من التطبيق (cache-busting)",
-  "publishedAt": "2026-08-16T00:00:00Z",
-  "sha256": "E60CB790C639B759E208CDF2918914C0F5BB4404B8F9BE83E9163C0DCBB89621",
+  "title": "تحديث Maren - إصلاح حرج",
+  "description": "إصلاح المزامنة: كانت بتمسح الأقساط الجديدة بعد ساعة",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.18/Maren-3.2.18.apk",
+  "releaseNotes": "1. إصلاح حرج: القسط مش هيمسح تاني بعد ما تسجله\n2. الدفع للسحابة بيحصل الأول قبل التنظيف\n3. مهلة 24 ساعة بدل ساعة قبل حذف السجلات\n4. إصلاح owner_id للسجلات القديمة",
+  "publishedAt": "2026-08-16T00:30:00Z",
+  "sha256": "510783EEB4420A9466B80487639138161565CD1BF5DB98E9E6589B759C8E3D1A",
   "platform": "android"
 }
