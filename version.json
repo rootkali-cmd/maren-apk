@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.18",
+  "latestVersion": "3.2.19",
   "minimumVersion": null,
   "forceUpdate": false,
-  "title": "تحديث Maren - إصلاح حرج",
-  "description": "إصلاح المزامنة: كانت بتمسح الأقساط الجديدة بعد ساعة",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.18/Maren-3.2.18.apk",
-  "releaseNotes": "1. إصلاح حرج: القسط مش هيمسح تاني بعد ما تسجله\n2. الدفع للسحابة بيحصل الأول قبل التنظيف\n3. مهلة 24 ساعة بدل ساعة قبل حذف السجلات\n4. إصلاح owner_id للسجلات القديمة",
-  "publishedAt": "2026-08-16T00:30:00Z",
-  "sha256": "510783EEB4420A9466B80487639138161565CD1BF5DB98E9E6589B759C8E3D1A",
+  "title": "تحديث Maren",
+  "description": "إصلاح deprecated API + إصلاح حرج في المزامنة",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.19/Maren-3.2.19.apk",
+  "releaseNotes": "1. إصلاح deprecated getContentUriAsync\n2. إصلاح حرج: القسط مش هيمسح تاني\n3. المزامنة بتبعت قبل التنظيف",
+  "publishedAt": "2026-08-16T13:15:00Z",
+  "sha256": "BA89B3C1A2A364825E58F602E5E6967F6CFFA107904457F8CBC94D0E6268A28B",
   "platform": "android"
 }
