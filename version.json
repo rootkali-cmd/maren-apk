@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.20",
+  "latestVersion": "3.2.21",
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren",
-  "description": "إصلاح حرج: المزامنة بين الأجهزة - setOwnerId يُستدعى عند بدء التشغيل",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.20/Maren-3.2.20.apk",
-  "releaseNotes": "1. إصلاح حرج: setOwnerId لا يُستدعى عند بدء التشغيل → المزامنة كانت فارغة\n2. تنظيف السحابة بعد 24 ساعة بدل ساعة واحدة\n3. إصلاح deprecated getContentUriAsync",
-  "publishedAt": "2026-08-16T18:15:00Z",
-  "sha256": "0D2D7F57A06A0F72670C981BCE73033EB0028C16177A7EC1AD99C8604ADA35E5",
+  "description": "إصلاح التنزيل الداخلي + المزامنة بين الأجهزة",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.21/Maren-3.2.21.apk",
+  "releaseNotes": "1. إصلاح تنزيل التحديث الداخلي (كان الرابط بيرجع 404)\n2. تحسين التعامل مع redirect من GitHub\n3. زر تحميل من المتصفح كبديل\n4. إصلاح المزامنة: setOwnerId عند بدء التشغيل",
+  "publishedAt": "2026-08-16T19:30:00Z",
+  "sha256": "8BD1A29CE5B9B6386189C478919CE6B6C2F1283C4696023769BD190F55F3EDD7",
   "platform": "android"
 }
