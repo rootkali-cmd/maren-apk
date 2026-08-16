@@ -4,7 +4,7 @@
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
   "description": "إصلاح التنبيهات + ترحيل owner_id + إصلاح getAndroidLatest",
-  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.18-desktop/Maren%20Setup%203.2.18.exe",
+  "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.18-desktop/Maren.Setup.3.2.18.exe",
   "releaseNotes": "1. إصلاح التنبيهات: القسط لا يظهر في التنبيهات قبل موعد أول دفعة\n2. إصلاح owner_id: السجلات القديمة تتنصلح عند تسجيل الدخول\n3. إصلاح getAndroidLatest في preload.js\n4. إصدار أسرع للتحديث",
   "publishedAt": "2026-08-15T22:30:00Z",
   "sha256": "BF23534B5354B9574CC9B5C744FC7D732EA5747EFD2323B3BBEAA8067BEF8C64"
