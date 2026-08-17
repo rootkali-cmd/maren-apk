@@ -7,6 +7,6 @@
   "downloadUrl": "https://raw.githubusercontent.com/rootkali-cmd/maren-apk/main/Maren-3.2.23.apk",
   "releaseNotes": "1. إصلاح حرج: إزالة الحذف التلقائي نهائياً من المزامنة\n2. البيانات المحلية لن تُمسح بعد الآن — الحذف يدوي فقط\n3. إصلاح زر تحميل من المتصفح (النص كان مش ظاهر)\n4. إصلاح تنزيل التحديث (رابط مباشر من raw.githubusercontent)",
   "publishedAt": "2026-08-17T18:40:00Z",
-  "sha256": "A756C79636E2D273E6A9A063301D63E3BCED1D5901DD029E1C08B5943503A1AD",
+  "sha256": "7CE699E84A551A0AAE477D20E1210FCFABB58108E3D33DB14559CBC4B7432EF3",
   "platform": "android"
 }
