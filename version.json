@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.22",
+  "latestVersion": "3.2.23",
   "minimumVersion": null,
   "forceUpdate": true,
   "title": "تحديث Maren — إصلاح حرج لفقدان البيانات",
-  "description": "إزالة الحذف التلقائي نهائياً — البيانات لن تُمسح بعد الآن",
-  "downloadUrl": "https://raw.githubusercontent.com/rootkali-cmd/maren-apk/main/Maren-3.2.22.apk",
-  "releaseNotes": "1. إصلاح حرج: إزالة الحذف التلقائي نهائياً من المزامنة\n2. البيانات المحلية لن تُمسح بعد الآن — الحذف يدوي فقط\n3. إصلاح تنزيل التحديث + زر تحميل من المتصفح",
-  "publishedAt": "2026-08-17T17:05:00Z",
-  "sha256": "1CEB5FEEC23571CC85C3E874FE3B0B6519929FB1CB1DB4C787D419B89F6B9E66",
+  "description": "إزالة الحذف التلقائي نهائياً + إصلاح زر تحميل المتصفح",
+  "downloadUrl": "https://raw.githubusercontent.com/rootkali-cmd/maren-apk/main/Maren-3.2.23.apk",
+  "releaseNotes": "1. إصلاح حرج: إزالة الحذف التلقائي نهائياً من المزامنة\n2. البيانات المحلية لن تُمسح بعد الآن — الحذف يدوي فقط\n3. إصلاح زر تحميل من المتصفح (النص كان مش ظاهر)\n4. إصلاح تنزيل التحديث (رابط مباشر من raw.githubusercontent)",
+  "publishedAt": "2026-08-17T18:40:00Z",
+  "sha256": "A756C79636E2D273E6A9A063301D63E3BCED1D5901DD029E1C08B5943503A1AD",
   "platform": "android"
 }
