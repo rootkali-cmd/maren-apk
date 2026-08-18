@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.24",
+  "latestVersion": "3.2.25",
   "minimumVersion": null,
   "forceUpdate": true,
-  "title": "تحديث Maren — إصلاح المزامنة من الموبايل",
-  "description": "إصلاح رفع الأقساط من الموبايل للسحابة",
-  "downloadUrl": "https://raw.githubusercontent.com/rootkali-cmd/maren-apk/main/Maren-3.2.24.apk",
-  "releaseNotes": "1. إصلاح حرج: تحويل الأرقام الكسرية بشكل صحيح عند الرفع للسحابة\n2. الأقساط على الموبايل كانت مش بتترفع بسبب خطأ في صيغة JSON\n3. تحسين فحص أخطاء المزامنة — أي خطأ هيظهر بدل ما يتسكت\n4. إزالة الحذف التلقائي نهائياً (حماية البيانات)",
-  "publishedAt": "2026-08-18T06:40:00Z",
-  "sha256": "42E82ECD119C1EFB9F8C46936D09C8694DFA863165DEE22AAE00E993160C3F90",
+  "title": "تحديث Maren — إصلاح خطأ تثبيت التحديث",
+  "description": "إصلاح خطأ IntentLauncher عند تثبيت الـ APK بعد التحميل",
+  "downloadUrl": "https://raw.githubusercontent.com/rootkali-cmd/maren-apk/main/Maren-3.2.25.apk",
+  "releaseNotes": "1. إصلاح خطأ تثبيت التحديث (flags كان بيرسل كمصفوفة بدل رقم)\n2. إصلاح رفع الأقساط من الموبايل للسحابة (الأرقام الكسرية)\n3. إزالة الحذف التلقائي نهائياً (حماية البيانات)",
+  "publishedAt": "2026-08-18T07:30:00Z",
+  "sha256": "645C083DB814C087EBA8A86CC5FC3A8A1908C58BE96F5BCA20E577480B18855D",
   "platform": "android"
 }
