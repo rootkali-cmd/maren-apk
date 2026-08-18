@@ -7,5 +7,5 @@
   "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.19-desktop/Maren.Setup.3.2.19.exe",
   "releaseNotes": "1. القفل الموحد: فحص الاشتراك كل 5 دقائق — البيتا المنتهية تقفل التطبيق فوراً\n2. نفس مصدر الاشتراك (السحابة) على الموبايل والديسكتوب\n3. إزالة الحذف التلقائي نهائياً (حماية البيانات)\n4. إصلاح المزامنة: قراءة .env مباشرة عند بدء التشغيل",
   "publishedAt": "2026-08-18T11:45:00Z",
-  "sha256": "4E1AD04102E0C149DF4D41BD20D9D6E988A76AC0DA903E0FA92EFC12676DA0AE"
+  "sha256": "DFB2D5CC433B49515230A8639E5AFCD162F67CE68582D3DBC01AEB95C505F087"
 }
