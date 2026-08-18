@@ -3,9 +3,9 @@
   "minimumVersion": null,
   "forceUpdate": false,
   "title": "تحديث Maren Desktop",
-  "description": "إصلاح المزامنة: قراءة .env مباشرة + تنظيف بعد 24 ساعة",
+  "description": "القفل الموحد: البيتا المنتهية تقفل الديسكتوب تلقائياً كل 5 دقائق",
   "downloadUrl": "https://github.com/rootkali-cmd/maren-apk/releases/download/v3.2.19-desktop/Maren.Setup.3.2.19.exe",
-  "releaseNotes": "1. إصلاح حرج: قراءة .env مباشرة عند بدء التشغيل (لا حاجة لبناء renderer)\n2. تنظيف السحابة بعد 24 ساعة بدل ساعة واحدة\n3. إصلاح التنبيهات + owner_id migration\n4. إصلاح deprecated getContentUriAsync",
-  "publishedAt": "2026-08-16T18:15:00Z",
-  "sha256": ""
+  "releaseNotes": "1. القفل الموحد: فحص الاشتراك كل 5 دقائق — البيتا المنتهية تقفل التطبيق فوراً\n2. نفس مصدر الاشتراك (السحابة) على الموبايل والديسكتوب\n3. إزالة الحذف التلقائي نهائياً (حماية البيانات)\n4. إصلاح المزامنة: قراءة .env مباشرة عند بدء التشغيل",
+  "publishedAt": "2026-08-18T11:45:00Z",
+  "sha256": "4E1AD04102E0C149DF4D41BD20D9D6E988A76AC0DA903E0FA92EFC12676DA0AE"
 }
