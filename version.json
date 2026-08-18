@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.2.25",
+  "latestVersion": "3.2.26",
   "minimumVersion": null,
   "forceUpdate": true,
-  "title": "تحديث Maren — إصلاح خطأ تثبيت التحديث",
-  "description": "إصلاح خطأ IntentLauncher عند تثبيت الـ APK بعد التحميل",
-  "downloadUrl": "https://raw.githubusercontent.com/rootkali-cmd/maren-apk/main/Maren-3.2.25.apk",
-  "releaseNotes": "1. إصلاح خطأ تثبيت التحديث (flags كان بيرسل كمصفوفة بدل رقم)\n2. إصلاح رفع الأقساط من الموبايل للسحابة (الأرقام الكسرية)\n3. إزالة الحذف التلقائي نهائياً (حماية البيانات)",
-  "publishedAt": "2026-08-18T07:30:00Z",
-  "sha256": "645C083DB814C087EBA8A86CC5FC3A8A1908C58BE96F5BCA20E577480B18855D",
+  "title": "تحديث Maren — إصلاح قفل الاشتراك الموحد",
+  "description": "البيتا المنتهية تقفل التطبيق تلقائياً على الموبايل والديسكتوب",
+  "downloadUrl": "https://raw.githubusercontent.com/rootkali-cmd/maren-apk/main/Maren-3.2.26.apk",
+  "releaseNotes": "1. إصلاح حرج: البيتا المنتهية كانت لا تقفل تطبيق الموبايل — الآن تقفل فوراً\n2. فحص الاشتراك كل 5 دقائق — لو المدة خلصت يتقفل التطبيق تلقائياً\n3. القفل موحّد: نفس الاشتراك في السحابة على الموبايل والديسكتوب\n4. إصلاح رفع الأقساط من الموبايل للسحابة (الأرقام الكسرية)",
+  "publishedAt": "2026-08-18T11:30:00Z",
+  "sha256": "7743962228F8FD666CFFAC0F3422A2F0981ABA87E60418B52BBB45AC49A60E9D",
   "platform": "android"
 }
